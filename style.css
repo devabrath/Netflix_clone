@@ -200,7 +200,7 @@ input[type="radio"]{
 .footer{
     padding: 50px 15% 10px;
     border-top: 6px solid #333;
-    color: #777;
+    color: fff;
 
 }
 .footer h2{
@@ -209,6 +209,7 @@ input[type="radio"]{
     margin-bottom: 30px;
 }
 .footer .col{
+    color: #fff;
     flex-basis: 25%;
     flex-grow: 1;
     margin-bottom: 20px;
@@ -216,7 +217,7 @@ input[type="radio"]{
 .footer .col a{
     display: block;
     text-decoration: none;
-    color: #777;
+    color: #fff;
     font-size: 14px;
     margin-bottom: 10px;
 }
